@@ -106,6 +106,12 @@ $pagina = [
                         ]
                         ],
 
-                    ];
-    var_dump($pagina);
+    ];
+    #echo "<" . $tag . ">";
+    #echo "</" . $tag . ">";
+    
+// foreach ($pagina as $sezione) {
+//     echo 
+// }
+    
 ?>
